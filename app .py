@@ -288,6 +288,10 @@ st.markdown("""
     <div class="leadership-dot"></div>
     <span class="leadership-text">Community Youth Club Member &mdash; Nepal (community outreach)</span>
   </div>
+  <div class="leadership-item">
+    <div class="leadership-dot"></div>
+    <span class="leadership-text">Course Representative and Student Ambassador &mdash;Coventry University</span>
+  </div>
 </div>
 """, unsafe_allow_html=True)
 
