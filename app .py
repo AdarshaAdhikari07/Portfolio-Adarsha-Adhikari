@@ -163,7 +163,7 @@ st.markdown("""
   </div>
   <div class="exp-item">
     <div class="exp-meta">
-      <div class="exp-date"> Sep 2025 &ndash; Feb 2026</div>
+      <div class="exp-date"> Nov 2025 &ndash; Feb 2026</div>
       <div class="exp-org">Cadent Gas<br>UK</div>
     </div>
     <div>
