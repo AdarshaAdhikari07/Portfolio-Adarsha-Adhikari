@@ -299,7 +299,7 @@ st.markdown("""
 st.markdown("""
 <div class="footer">
   <div class="footer-name serif">Adarsha Adhikari</div>
-  <div class="footer-note mono">Available &middot; May 2026</div>
+  <div class="footer-note mono">Available &middot; After July 2026</div>
 </div>
 """, unsafe_allow_html=True)
 
